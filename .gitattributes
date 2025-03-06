@@ -1,2 +1,6 @@
-*.pbix linguist-language=PowerBI
-*.pbit linguist-language=PowerBI
+*.pbix linguist-language="Power BI"
+*.pbit linguist-language="Power BI"
+*.pbix linguist-detectable=true
+*.pbit linguist-detectable=true
+*.pbix linguist-vendored=false
+*.pbit linguist-vendored=false
