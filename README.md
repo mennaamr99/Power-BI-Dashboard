@@ -20,10 +20,6 @@ This Power BI dashboard was designed to analyze **PhoneNow's call center perform
 - **Agent Analysis:** Performance metrics, including resolution rates and speed of answer  
 - **Abandoned Calls Analysis:** Categorized by topic and time to highlight problem areas  
 
-## 🛠️ Technologies Used  
-- **Power BI** for data visualization  
-- **SQL / Excel** (if applicable, mention data preprocessing tools)  
-
 ## 🚀 How to Use  
 1. Open the Power BI file (`.pbix`)  
 2. Interact with filters to analyze different aspects of the data  
