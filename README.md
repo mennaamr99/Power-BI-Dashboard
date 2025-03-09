@@ -28,4 +28,4 @@ This Power BI dashboard was designed to analyze **PhoneNow's call center perform
 ## 📬 Feedback  
 Feel free to share your thoughts or suggestions for improvement!  
 
-![Capture](https://github.com/user-attachments/assets/a5cc678d-dedd-40d0-a0c3-ea923ed2a6e6)
+![last](https://github.com/user-attachments/assets/e0cd4bcc-7960-48c3-862d-c09077182dfc)
